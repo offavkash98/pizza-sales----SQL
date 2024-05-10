@@ -5,9 +5,13 @@
 ✤Aiming to enhance decision making,marketing strategies to boost sales performance
 
 📍 𝐓𝐚𝐛𝐥𝐞𝐬 𝐔𝐬𝐞𝐝 :
+
        • order_details
+
        • pizzas
+
        • pizza_types
+
        • orders
 
 🔎𝐐𝐮𝐞𝐫𝐢𝐞𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 :
